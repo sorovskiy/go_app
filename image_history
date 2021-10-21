@@ -1,0 +1,9 @@
+IMAGE                                                                     CREATED         CREATED BY                                                                                             SIZE      COMMENT
+sha256:6e99e38926f0f6d0e9823d935600a48bee6b79c1fc8024422634cf959eaacc09   9 minutes ago   /bin/sh -c #(nop)  CMD ["hello"]                                                                       0B        
+sha256:ddc18a151b285fec651eb05c8523c6388dbf825b7bfc7ac8036d4792d3db52e1   9 minutes ago   /bin/sh -c #(nop)  ENTRYPOINT ["sh"]                                                                   0B        
+sha256:20c9593b59e325c1d57ec912bf1589a031056076d7bd12bad1e9a426e7cfdf01   9 minutes ago   /bin/sh -c #(nop)  EXPOSE 5000                                                                         0B        
+sha256:528274c3ce458e3d385efa5473a3390c92a54cc2501f6288c701621adb633b4a   9 minutes ago   /bin/sh -c ls -la                                                                                      0B        
+sha256:85ee30e9dc19a643ec8aa50cd6259baaf87afdb3aa92f50576765e15c9098bf8   9 minutes ago   /bin/sh -c #(nop) WORKDIR /app                                                                         0B        
+sha256:0fb6e7f503bf6f3c1deab7f1a19a73f8e35cbdf719321bc9495408aa30c94fb9   9 minutes ago   /bin/sh -c #(nop) COPY dir:e7e4579064e7bbeacc8e81f1d8cc8533f161f456041a896a96b752ca8053833b in /app    24.8kB    
+sha256:14119a10abf4669e8cdbdff324a9f9605d99697215a0d21c360fe8dfa8471bab   7 weeks ago     /bin/sh -c #(nop)  CMD ["/bin/sh"]                                                                     0B        
+<missing>                                                                 7 weeks ago     /bin/sh -c #(nop) ADD file:aad4290d27580cc1a094ffaf98c3ca2fc5d699fe695dfb8e6e9fac20f1129450 in /       5.6MB     
