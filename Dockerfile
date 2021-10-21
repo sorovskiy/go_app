@@ -3,4 +3,4 @@ COPY . /app
 WORKDIR /app
 RUN ls -la
 EXPOSE 5000
-ENTRYPOINT ["hello"]
+ENTRYPOINT ["./hello"]
