@@ -11,5 +11,5 @@ func main() {
 }
 
 func HelloHandler(w http.ResponseWriter, r *http.Request) {
-	_, _ = w.Write([]byte("Hello, World 1\n Go - the best language\n"))
+	_, _ = w.Write([]byte("Hello, World 2\n"))
 }
